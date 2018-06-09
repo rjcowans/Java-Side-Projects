@@ -1,3 +1,4 @@
+package src.Input;
 // nameOfFirstThingApplicationUsesHereSuchAsInputClass
 public class  inputClass {
    public inputClass(String value) {

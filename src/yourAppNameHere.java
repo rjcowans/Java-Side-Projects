@@ -1,3 +1,5 @@
+package src;
+import src.Input.*;
 // This is your appName class where all of your program will be housed. It can allow for static and non static methods and allows more flexibility at the entrypoint.
 // This is useful to keep beginner programmers in java from overusing the static class which can become very problematic if used incorrectly.
 public class yourAppNameHere{
